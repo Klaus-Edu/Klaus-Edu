@@ -3,7 +3,6 @@
 - 🚩 Blumenau/SC
 - ✍ Segunda edição da turma de Java na +DEVS2BLU
 - 📗 Estudante de Ciência da Computação
-- 🧑 Em busca da primeira oportunidade na área DEV
 - ☕ Estudando Java e Spring Boot
 ##
 
